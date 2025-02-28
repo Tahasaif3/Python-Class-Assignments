@@ -10,7 +10,7 @@ Original file is located at
 """
 
 # Part 1: Understanding String Literals
-# Q1Create three different strings using each type of quotation:
+# Q1. Create three different strings using each type of quotation:
 # Single quotes ('example')
 # Double quotes ("example")
 # Triple quotes ("""example""")
@@ -31,7 +31,7 @@ Yeah it is awesome!
 """
 print(triple_quote_string);
 
-# Q2.Explain in your own words: What is the advantage of each type of quotation?
+# Q2. Explain in your own words: What is the advantage of each type of quotation?
 # Answer:
 ### **Single, Double, and Triple Quotes in Python**  
 
@@ -155,9 +155,8 @@ print(f"I enjoy programming in {language}, it's my favorite!");
 # {calculated age},
 # Username: {first initial + last name + birth year}
 
-from datetime import datetime
 
-current_year = datetime.now().year
+current_year = 2025
 
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
