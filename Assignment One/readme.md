@@ -77,6 +77,9 @@ print(f"Profile: {first} {last}, Age: {age}, Username: {username}")
 ---
 
 ## 🔥 Run the Assignment  
+🔗 Run in Google Colab
+[Run Live on Google Colab](https://colab.research.google.com/drive/15QNwSTSU_ZhSSR6LEUy5FnVFu0BO6Gro?usp=sharing)
+
 Clone the repository and execute the script:  
 ```bash
 git clone https://github.com/Tahasaif3/Python-Class-Assignments.git
