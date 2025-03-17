@@ -1,4 +1,4 @@
-# 🐍 Python Class Assignment 1
+# 🐍 Python Class Assignment 1: String, Literals, String Methods, F-Strings
 
 ## 📌 Overview  
 This assignment covers Python string fundamentals, including string literals, methods, and formatting techniques. It consists of four parts:  
