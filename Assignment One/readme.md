@@ -1,4 +1,4 @@
-# 🐍 Python String Class Assignment  
+# 🐍 Python Class Assignment 1
 
 ## 📌 Overview  
 This assignment covers Python string fundamentals, including string literals, methods, and formatting techniques. It consists of four parts:  
@@ -84,6 +84,8 @@ Clone the repository and execute the script:
 ```bash
 git clone https://github.com/Tahasaif3/Python-Class-Assignments.git
 cd Python-Class-Assignments
+then
+cd Assignment One
 python python_string_class_assignment_1.py
 ```
 
@@ -91,7 +93,5 @@ python python_string_class_assignment_1.py
 
 ## 📌 Completed By  
 **Taha Saif** 🚀  
-
----
 
 ⭐ **If you found this useful, give it a star on GitHub!** ⭐  
