@@ -47,13 +47,20 @@ git clone https://github.com/Tahasaif3/Python-Class-Assignments
 
 2. Navigate into the project folder:  
 ```bash
+cd Python-Class-Assignments
+then 
 cd Assignment Three
 ```  
 
 3. Run the Python file:  
 ```bash
 python python_assignment_3.py
-```  
+```
+
+## 🔥 Run the Assignment  
+🔗 Run in Google Colab
+[Run Live on Google Colab](https://colab.research.google.com/drive/1Mckvz1fhgpxNscNT31TlsGU9KAoeIJvb?usp=sharing)
+
 
 ## Author   
 - GitHub: [Taha Saif](https://github.com/Tahasaif3)  
