@@ -1,4 +1,4 @@
-# Python Assignment 2: Operators and If-Else Statements  
+# Python Class Assignment 2: Operators and If-Else Statements  
 
 This repository contains solutions for a Python assignment focused on using operators and if-else statements. The assignment includes building a simple arithmetic calculator and a student grade system calculator.  
 
