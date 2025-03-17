@@ -1,4 +1,4 @@
-# Python Assignment: Lists, Tuples, and Methods  
+# Python Assignment 3: Lists, Tuples, and Methods  
 
 This repository contains solutions for a Python assignment focused on working with lists, tuples, and their methods. The tasks range from basic operations to more advanced problem-solving using functions.  
 
@@ -57,6 +57,3 @@ python python_assignment_3.py
 
 ## Author   
 - GitHub: [Taha Saif](https://github.com/Tahasaif3)  
-
-## License  
-This project is licensed under the MIT License.  
